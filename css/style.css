@@ -1,0 +1,160 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #F7F7FE;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.main-paig {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  color: #6E728E;
+}
+
+.chexbox  {
+  display: flex;
+    width: 350px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.chuze {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 28px;
+  color: #6E728E;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.besic-div {
+  width: 34%;
+  box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+  border-radius: 10px 0px 0px 10px;
+  padding: 31px;
+
+}
+
+.besic-title {
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  color: #6E728E;
+}
+
+.price {
+  margin-bottom: 32px;
+  align-items: center;
+  text-align: center;
+  display: block;
+}
+
+.dollr {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  letter-spacing: -1.2px;
+  color: #4A4D60;
+}
+
+.summa {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 71px;
+  letter-spacing: -2.16px;
+  color: #4A4D60;
+}
+
+.descrip {
+  margin-bottom: 25px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #6E728E;
+}
+
+.favorite {
+  background: linear-gradient(135.06deg, #A2A7F0 -0.05%, #696EDD 100.05%);
+  box-shadow: 0px 20px 40px rgba(212, 210, 244, 0.5);
+  border-radius: 10px;
+  padding: 55px 31px;
+}
+
+.btn {
+  margin-top: 32px;
+  align-items: center;
+  text-align: center;
+  display: block;
+  padding: 12px 44px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 1.39286px;
+  color: #A2A7F0;
+  background: #FFFFFF;
+  border-radius: 6px;
+}
+
+.button {
+  align-items: center;
+  text-align: center;
+  display: block;
+  margin-top: 25px;
+  padding: 12px 44px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 1.39286px;
+  color: #FFFFFF;
+  background: linear-gradient(135deg, #A2A7F0 0%, #696EDD 100%);
+  border-radius: 6px;
+}
+
+.cards-line {
+  display: block;
+  border-bottom: 1px solid;
+}
+
+.descrip {
+  margin: 12px 0;
+}
+
+.line {
+  display: block;
+  padding-top: 12px;
+  border-top: 1px solid;
+}
+
+.cards {
+  align-items: center;
+}
+
+.summas {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 71px;
+  letter-spacing: -2.16px;
+
+}
+
+.white {
+  color: white;
+}
